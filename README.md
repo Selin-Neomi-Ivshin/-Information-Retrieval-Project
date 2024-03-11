@@ -1,4 +1,4 @@
-# **Information Retrieval - Wikipedia Search Engine**
+#**Information Retrieval - Wikipedia Search Engine**#
 ---
 
 The project was conductes under the course "Information Retrieval" at Ben Gurion University. The culminating project entails developing a search engine for English Wikipedia. This search engine can handle and organize over six million documents, geared towards swiftly delivering pertinent results for user inquiries across the entire Wikipedia article collection. We used fine-tuned and optimized various techniques to ensure an optimal search experience for our users.
