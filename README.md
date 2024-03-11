@@ -14,7 +14,7 @@ The project was conductes under the course "Information Retrieval" at Ben Gurion
 5. `Index_title_creator.py` - contains the inverted index of the title and all the methods for using this index in BM-25 algorithm. 
 6. `Index_body_creator.py` - contains the inverted index of the body and all the methods for using this index in BM-25 algorithm. 
 7. `Inverted_index_gcp.py` - contains the inverted index file and all the methods for creating an index.
-8. `bucket_files.txt` - contains the files list from the buckets as required.
+8. `Buckets_body_title_bins.txt` - contains the files list from the buckets as required.
 
 ---
 ---
